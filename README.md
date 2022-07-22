@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zhaoxinyi02,an interesting boy 
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python spider
+- 📫 How to reach me ...QQ:3113058188 WeChat:ZxY0211-zXy E-mail:zhaoxinyi0211@gmali.com&zhaoxinyi0211@qq.com
