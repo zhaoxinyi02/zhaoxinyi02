@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=%E8%B5%B5%E9%91%AB%E4%BA%BF%20%2F%20zhaoxinyi02&fontAlignY=36&fontSize=38&desc=Software%20Engineering%20Student%20%C2%B7%20Developer%20%C2%B7%20AI%20Explorer&descAlignY=58&animation=fadeIn&color=gradient" />
 
-<img src="https://github.com/zhaoxinyi02.png?size=160" width="130" height="130" style="border-radius:50%" alt="zhaoxinyi02" />
+<img src="https://github.com/zhaoxinyi02.png?size=160" width="130" height="130" alt="zhaoxinyi02" />
 
 <br />
 <br />
@@ -47,11 +47,11 @@ Status     Building, learning, shipping.
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLM_Applications-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Developer_Tools-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Desktop_Apps-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open_Source-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge" alt="AI Agents" />
+<img src="https://img.shields.io/badge/LLM_Applications-111827?style=for-the-badge" alt="LLM Applications" />
+<img src="https://img.shields.io/badge/Developer_Tools-111827?style=for-the-badge" alt="Developer Tools" />
+<img src="https://img.shields.io/badge/Desktop_Apps-111827?style=for-the-badge" alt="Desktop Apps" />
+<img src="https://img.shields.io/badge/Open_Source-111827?style=for-the-badge" alt="Open Source" />
 
 </div>
 
@@ -59,19 +59,32 @@ Status     Building, learning, shipping.
 
 我更喜欢做真正可以落地使用的东西。目前公开项目主要围绕 AI、桌面工具和开发者体验展开。
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/zhaoxinyi02/ClawPanel">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zhaoxinyi02&repo=ClawPanel&theme=transparent&hide_border=true" alt="ClawPanel" />
-</a>
-<a href="https://github.com/zhaoxinyi02/modeldock">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zhaoxinyi02&repo=modeldock&theme=transparent&hide_border=true" alt="ModelDock" />
-</a>
+### [ClawPanel](https://github.com/zhaoxinyi02/ClawPanel)
 
-</div>
+面向 OpenClaw 生态的轻量级管理面板，聚焦易部署、轻量化与多通道管理体验。
 
-- **ClawPanel** — 面向 OpenClaw 生态的轻量级管理面板
-- **ModelDock** — 管理 Codex Desktop 官方订阅与第三方 API 模型的 Windows / macOS 桌面工具
+<img src="https://img.shields.io/github/stars/zhaoxinyi02/ClawPanel?style=flat-square" alt="ClawPanel Stars" />
+<img src="https://img.shields.io/github/forks/zhaoxinyi02/ClawPanel?style=flat-square" alt="ClawPanel Forks" />
+<img src="https://img.shields.io/github/last-commit/zhaoxinyi02/ClawPanel?style=flat-square" alt="ClawPanel Last Commit" />
+
+</td>
+<td width="50%" valign="top">
+
+### [ModelDock](https://github.com/zhaoxinyi02/modeldock)
+
+管理 Codex Desktop 官方订阅与第三方 API 模型的 Windows / macOS 桌面工具。
+
+<img src="https://img.shields.io/github/stars/zhaoxinyi02/modeldock?style=flat-square" alt="ModelDock Stars" />
+<img src="https://img.shields.io/github/forks/zhaoxinyi02/modeldock?style=flat-square" alt="ModelDock Forks" />
+<img src="https://img.shields.io/github/last-commit/zhaoxinyi02/modeldock?style=flat-square" alt="ModelDock Last Commit" />
+
+</td>
+</tr>
+</table>
 
 除此之外，我也在持续尝试 AI Agent、校园信息化、自动化工具，以及一些有意思的小项目。
 
@@ -79,9 +92,12 @@ Status     Building, learning, shipping.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zhaoxinyi02&show_icons=true&rank_icon=github&hide_border=true&theme=transparent&include_all_commits=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoxinyi02&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top Languages" />
+<img src="https://img.shields.io/badge/Public_Profile-zhaoxinyi02-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+<img src="https://img.shields.io/github/followers/zhaoxinyi02?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+<img src="https://img.shields.io/github/stars/zhaoxinyi02/ClawPanel?style=for-the-badge&logo=github&label=ClawPanel%20Stars" alt="ClawPanel Stars" />
+<img src="https://img.shields.io/github/stars/zhaoxinyi02/modeldock?style=for-the-badge&logo=github&label=ModelDock%20Stars" alt="ModelDock Stars" />
 
+<br />
 <br />
 
 <img src="https://streak-stats.demolab.com?user=zhaoxinyi02&hide_border=true&theme=transparent" alt="GitHub Streak" />
