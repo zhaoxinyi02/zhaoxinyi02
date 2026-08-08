@@ -36,7 +36,6 @@
 
 - [ClawPanel](https://github.com/zhaoxinyi02/ClawPanel) — 面向 OpenClaw 生态的轻量级管理面板
 - [ModelDock](https://github.com/zhaoxinyi02/modeldock) — 管理 Codex Desktop 官方订阅与第三方 API 模型的 Windows / macOS 桌面工具
-- [LanMind / 澜灵](https://github.com/zhaoxinyi02/LanMind) — 权限透明、离线可用的主动式电脑 AI 管家
 
 除此之外，我也在持续尝试 AI Agent、校园信息化、自动化工具以及一些有意思的小项目。
 
